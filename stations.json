@@ -1,0 +1,62 @@
+{results: [
+    {
+        "id": 0,
+        "name": "Valga Station",
+        "company_id": 0
+    },
+    {
+        "id": 1,
+        "name": "Pärnu Station",
+        "company_id": 0
+    },
+    {
+        "id": 2,
+        "name": "Jõhvi Station",
+        "company_id": 0
+    },
+    {
+        "id": 3,
+        "name": "Narva Station",
+        "company_id": 1
+    },
+    {
+        "id": 4,
+        "name": "Rapla Station",
+        "company_id": 1
+    },
+    {
+        "id": 5,
+        "name": "Viljandi Station",
+        "company_id": 2
+    },
+    {
+        "id": 6,
+        "name": "Tallinn Station",
+        "company_id": 2
+    },
+    {
+        "id": 7,
+        "name": "Tartu Station",
+        "company_id": 3
+    },
+    {
+        "id": 8,
+        "name": "Kuressaare Station",
+        "company_id": 3
+    },
+    {
+        "id": 9,
+        "name": "Paide Station",
+        "company_id": 3
+    },
+    {
+        "id": 10,
+        "name": "Põltsamaa Station",
+        "company_id": 4
+    },
+    {
+        "id": 11,
+        "name": "Tapa Station",
+        "company_id": 4
+    }
+]}

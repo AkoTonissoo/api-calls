@@ -1,0 +1,29 @@
+{
+	"results": [
+		{
+			"id": 0,
+			"name": "Tesla Motors Est.",
+			"parent_company_id": null
+		},
+		{
+			"id": 1,
+			"name": "Narva Energy",
+			"parent_company_id": null
+		},
+		{
+			"id": 2,
+			"name": "Southern Electricity",
+			"parent_company_id": 1
+		},
+		{
+			"id": 3,
+			"name": "Island Voltage",
+			"parent_company_id": 0
+		},
+		{
+			"id": 4,
+			"name": "Imported Power",
+			"parent_company_id": 3
+		}
+	]
+}
